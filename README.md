@@ -1,2 +1,2 @@
 # registration-form
-GUI at python
+tkinter GUI at python
